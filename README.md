@@ -45,7 +45,7 @@ Link do site na nuvem: http://ideamais.s3-website-sa-east-1.amazonaws.com/
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Linguagem usada.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Linguagem de marcação.
 * [CSS](https://www.w3schools.com/html/) - Estilo da pagina.
-* [Cloud](https://www.netlify.com) - Serviço de cloud usado.
+* [Cloud](https://aws.amazon.com) - Serviço de cloud usado.
 * [SQL SERVER](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - Banco de dados relacional
 
 
