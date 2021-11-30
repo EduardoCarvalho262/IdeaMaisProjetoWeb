@@ -38,7 +38,7 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 O intuito do projeto foi fazer uma SPA(Single Page Application) onde mostra a nossa empresa e quais sao os 
 produtos que temos a oferecer a nossos clientes e com um formulario para que podemos entrar em contato com nosso sistema interno.
 
-Link do site na nuvem: https://ideamais.netlify.app
+Link do site na nuvem: http://ideamais.s3-website-sa-east-1.amazonaws.com/
 
 ## 🛠️ Construído com
 
