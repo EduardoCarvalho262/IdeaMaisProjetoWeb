@@ -56,7 +56,7 @@ Link do site na nuvem: http://ideamais.s3-website-sa-east-1.amazonaws.com/
 ## ✒️ Autores
 
 * **Desenvolvedor** - *Levantamento de Requistos* - [Desenvolvedor] - Nathalia Miguez da Fonseca - 920122338
-* **DBA** - *Banco de Dados* - [Desenvolvedor] - Wesley Golçalves Angelim - RA: 920123321
+* **DBA** - *Banco de Dados* - [Desenvolvedor] - Wesley Gonçalves Angelim - RA: 920123321
 * **DBA** - *Banco de Dados* - [Desenvolvedor] - Mateus Santos Leão - RA: 920123489
 * **Desenvolvedor** - *Criacao do Site* - [Desenvolvedor] - Esther Hadassa Crispim Ramos - RA: 920123763
 * **Desenvolvedor** - *Nuvem* - [Desenvolvedor] - Marcelo Vinicios De Souza Oliveira - RA: 920120961
